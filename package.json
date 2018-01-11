@@ -2,7 +2,7 @@
   "name": "scotch-react-router",
   "version": "1.0.0",
   "description": "React Router Aricle for Scotch",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
