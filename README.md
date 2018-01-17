@@ -1,2 +1,2 @@
-## Scotch React Todo
-A demo that backs a Scotch article on building a Todo App using React.
+## React Todo App
+A simple react To  Do app
